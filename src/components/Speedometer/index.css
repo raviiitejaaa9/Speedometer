@@ -1,0 +1,48 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #07080c;
+  height: 100vh;
+  background-size: cover;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.image {
+  width: 50vw;
+  align-self: center;
+}
+
+.main-head {
+  color: #ffffff;
+}
+
+.head {
+  color: #ffffff;
+}
+
+.para {
+  color: aliceblue;
+}
+
+.acc-btn {
+  background-color: #0b69ff;
+  padding: 5px;
+  border-radius: 3px;
+  width: 100px;
+  color: #ffffff;
+  border-width: 0px;
+  margin-right: 20x;
+}
+
+.brk-btn {
+  border: 1px solid #ffffff;
+  background-color: black;
+  padding: 5px;
+  border-radius: 3px;
+  width: 100px;
+  color: #ffffff;
+  margin-left: 10px;
+}
